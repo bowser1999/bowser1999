@@ -1,5 +1,4 @@
 👋 Hi, I’m @bowser1999
-👀 I’m interested in bicycle biomechanics, machine learning and university stuff :)
 📫 Maxi.W.16@web.de
 
 <!---
